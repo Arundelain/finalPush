@@ -15962,12 +15962,12 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "D:\\Projects\\5100FinalVR\\MixedReality250-master\\App\\GeneratedProjects\\UWP\\Assembly-CSharp\\Assembly-CSharp.csproj",
+      "projectUniqueName": "D:\\Projects\\5100_FinalProject_KR\\finalPush\\MixedReality250-master\\App\\GeneratedProjects\\UWP\\Assembly-CSharp\\Assembly-CSharp.csproj",
       "projectName": "Assembly-CSharp",
-      "projectPath": "D:\\Projects\\5100FinalVR\\MixedReality250-master\\App\\GeneratedProjects\\UWP\\Assembly-CSharp\\Assembly-CSharp.csproj",
-      "projectJsonPath": "D:\\Projects\\5100FinalVR\\MixedReality250-master\\App\\GeneratedProjects\\UWP\\Assembly-CSharp\\project.json",
+      "projectPath": "D:\\Projects\\5100_FinalProject_KR\\finalPush\\MixedReality250-master\\App\\GeneratedProjects\\UWP\\Assembly-CSharp\\Assembly-CSharp.csproj",
+      "projectJsonPath": "D:\\Projects\\5100_FinalProject_KR\\finalPush\\MixedReality250-master\\App\\GeneratedProjects\\UWP\\Assembly-CSharp\\project.json",
       "packagesPath": "C:\\Users\\arund\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\5100FinalVR\\MixedReality250-master\\App\\GeneratedProjects\\UWP\\Assembly-CSharp\\obj\\",
+      "outputPath": "D:\\Projects\\5100_FinalProject_KR\\finalPush\\MixedReality250-master\\App\\GeneratedProjects\\UWP\\Assembly-CSharp\\obj\\",
       "projectStyle": "ProjectJson",
       "configFilePaths": [
         "C:\\Users\\arund\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -15980,8 +15980,8 @@
       "frameworks": {
         "uap10.0.10240": {
           "projectReferences": {
-            "D:\\Projects\\5100FinalVR\\MixedReality250-master\\App\\GeneratedProjects\\UWP\\Assembly-CSharp-firstpass\\Assembly-CSharp-firstpass.csproj": {
-              "projectPath": "D:\\Projects\\5100FinalVR\\MixedReality250-master\\App\\GeneratedProjects\\UWP\\Assembly-CSharp-firstpass\\Assembly-CSharp-firstpass.csproj"
+            "D:\\Projects\\5100_FinalProject_KR\\finalPush\\MixedReality250-master\\App\\GeneratedProjects\\UWP\\Assembly-CSharp-firstpass\\Assembly-CSharp-firstpass.csproj": {
+              "projectPath": "D:\\Projects\\5100_FinalProject_KR\\finalPush\\MixedReality250-master\\App\\GeneratedProjects\\UWP\\Assembly-CSharp-firstpass\\Assembly-CSharp-firstpass.csproj"
             }
           }
         }

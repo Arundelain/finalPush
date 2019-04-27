@@ -15887,12 +15887,12 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "D:\\Projects\\5100FinalVR\\MixedReality250-master\\App\\GeneratedProjects\\UWP\\Assembly-CSharp-firstpass\\Assembly-CSharp-firstpass.csproj",
+      "projectUniqueName": "D:\\Projects\\5100_FinalProject_KR\\finalPush\\MixedReality250-master\\App\\GeneratedProjects\\UWP\\Assembly-CSharp-firstpass\\Assembly-CSharp-firstpass.csproj",
       "projectName": "Assembly-CSharp-firstpass",
-      "projectPath": "D:\\Projects\\5100FinalVR\\MixedReality250-master\\App\\GeneratedProjects\\UWP\\Assembly-CSharp-firstpass\\Assembly-CSharp-firstpass.csproj",
-      "projectJsonPath": "D:\\Projects\\5100FinalVR\\MixedReality250-master\\App\\GeneratedProjects\\UWP\\Assembly-CSharp-firstpass\\project.json",
+      "projectPath": "D:\\Projects\\5100_FinalProject_KR\\finalPush\\MixedReality250-master\\App\\GeneratedProjects\\UWP\\Assembly-CSharp-firstpass\\Assembly-CSharp-firstpass.csproj",
+      "projectJsonPath": "D:\\Projects\\5100_FinalProject_KR\\finalPush\\MixedReality250-master\\App\\GeneratedProjects\\UWP\\Assembly-CSharp-firstpass\\project.json",
       "packagesPath": "C:\\Users\\arund\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\5100FinalVR\\MixedReality250-master\\App\\GeneratedProjects\\UWP\\Assembly-CSharp-firstpass\\obj\\",
+      "outputPath": "D:\\Projects\\5100_FinalProject_KR\\finalPush\\MixedReality250-master\\App\\GeneratedProjects\\UWP\\Assembly-CSharp-firstpass\\obj\\",
       "projectStyle": "ProjectJson",
       "configFilePaths": [
         "C:\\Users\\arund\\AppData\\Roaming\\NuGet\\NuGet.Config",
