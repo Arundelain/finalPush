@@ -14,7 +14,7 @@ public class NumPadPuzzle : MonoBehaviour, LevelControl.IAmAPuzzle
             return "I love PI";
         }
     }
-
+    
     public bool Solved
     {
         get;

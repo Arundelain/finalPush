@@ -1,6 +1,6 @@
 ﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
     <PropertyGroup>
-        <UnityWSASolutionName>KarensLighthouse</UnityWSASolutionName>
+        <UnityWSASolutionName>01_KarensLighthouse</UnityWSASolutionName>
         <UnityWSASolutionDir>D:\Projects\5100_FinalProject_KR\finalPush\MixedReality250-master\App\</UnityWSASolutionDir>
         <UnityProjectDir>D:\Projects\5100_FinalProject_KR\finalPush\MixedReality250-master\</UnityProjectDir>
         <UnityWSAPlayerDir>C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport\</UnityWSAPlayerDir>

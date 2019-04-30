@@ -19,7 +19,7 @@
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
     <LayoutDir>D:\Projects\5100_FinalProject_KR\finalPush\MixedReality250-master\App\KarensLighthouse\bin\x86\Release\AppX</LayoutDir>
-    <RegisteredManifestChecksum>260D8554EB00EFA5A5945DA0408C8A647AEFBE26EA187DC5F52A55CB51C6964A</RegisteredManifestChecksum>
+    <RegisteredManifestChecksum>A437EEED2498ABA9D8F435152189A6918DADBC78880012610C78BF5EE8B3F601</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>ProjectIsland_1.0.0.0_x86__pzq3xp76mxafg</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>ProjectIsland_pzq3xp76mxafg!App</RegisteredUserModeAppID>
     <RegisteredPackageID>ProjectIsland</RegisteredPackageID>
@@ -31,13 +31,13 @@
     <AppXManifest Include="D:\Projects\5100_FinalProject_KR\finalPush\MixedReality250-master\App\KarensLighthouse\bin\x86\Release\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2019-04-27T16:32:58.506</Modified>
+      <Modified>2019-04-28T23:43:41.982</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="D:\Projects\5100_FinalProject_KR\finalPush\MixedReality250-master\App\KarensLighthouse\bin\x86\Release\KarensLighthouse.exe">
       <PackagePath>entrypoint\KarensLighthouse.exe</PackagePath>
-      <Modified>2019-04-27T16:32:42.762</Modified>
+      <Modified>2019-04-28T23:43:24.390</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\arund\.nuget\packages\microsoft.applicationinsights\1.0.0\lib\portable-win81+wpa81\Microsoft.ApplicationInsights.dll">
       <PackagePath>Microsoft.ApplicationInsights.dll</PackagePath>
@@ -501,7 +501,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\5100_FinalProject_KR\finalPush\MixedReality250-master\App\KarensLighthouse\Resource.res">
       <PackagePath>Resource.res</PackagePath>
-      <Modified>2019-04-27T16:09:21.737</Modified>
+      <Modified>2019-04-28T23:40:55.167</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\5100_FinalProject_KR\finalPush\MixedReality250-master\App\KarensLighthouse\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
@@ -551,15 +551,15 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\5100_FinalProject_KR\finalPush\MixedReality250-master\App\KarensLighthouse\Data\boot.config">
       <PackagePath>Data\boot.config</PackagePath>
-      <Modified>2019-04-27T16:08:40.483</Modified>
+      <Modified>2019-04-28T23:40:04.025</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\5100_FinalProject_KR\finalPush\MixedReality250-master\App\KarensLighthouse\Data\globalgamemanagers">
       <PackagePath>Data\globalgamemanagers</PackagePath>
-      <Modified>2019-04-27T16:08:32.651</Modified>
+      <Modified>2019-04-28T23:40:01.100</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\5100_FinalProject_KR\finalPush\MixedReality250-master\App\KarensLighthouse\Data\level0">
       <PackagePath>Data\level0</PackagePath>
-      <Modified>2019-04-27T16:08:31.236</Modified>
+      <Modified>2019-04-28T23:39:59.298</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\5100_FinalProject_KR\finalPush\MixedReality250-master\App\KarensLighthouse\Data\Resources\unity default resources">
       <PackagePath>Data\Resources\unity default resources</PackagePath>
@@ -567,35 +567,35 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\5100_FinalProject_KR\finalPush\MixedReality250-master\App\KarensLighthouse\Data\Resources\unity_builtin_extra">
       <PackagePath>Data\Resources\unity_builtin_extra</PackagePath>
-      <Modified>2019-04-27T16:08:40.480</Modified>
+      <Modified>2019-04-28T23:40:04.022</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\5100_FinalProject_KR\finalPush\MixedReality250-master\App\KarensLighthouse\Data\globalgamemanagers.assets">
       <PackagePath>Data\globalgamemanagers.assets</PackagePath>
-      <Modified>2019-04-27T16:08:32.783</Modified>
+      <Modified>2019-04-28T23:40:01.271</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\5100_FinalProject_KR\finalPush\MixedReality250-master\App\KarensLighthouse\Data\sharedassets0.assets">
       <PackagePath>Data\sharedassets0.assets</PackagePath>
-      <Modified>2019-04-27T16:08:38.775</Modified>
+      <Modified>2019-04-28T23:40:03.733</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\5100_FinalProject_KR\finalPush\MixedReality250-master\App\KarensLighthouse\Data\level0.resS">
       <PackagePath>Data\level0.resS</PackagePath>
-      <Modified>2019-04-27T16:08:31.231</Modified>
+      <Modified>2019-04-28T23:39:59.291</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\5100_FinalProject_KR\finalPush\MixedReality250-master\App\KarensLighthouse\Data\sharedassets0.assets.resS">
       <PackagePath>Data\sharedassets0.assets.resS</PackagePath>
-      <Modified>2019-04-27T16:08:38.766</Modified>
+      <Modified>2019-04-28T23:40:03.722</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\5100_FinalProject_KR\finalPush\MixedReality250-master\App\KarensLighthouse\Data\managedAssemblies.txt">
       <PackagePath>Data\managedAssemblies.txt</PackagePath>
-      <Modified>2019-04-27T16:09:21.692</Modified>
+      <Modified>2019-04-28T23:40:55.115</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\5100_FinalProject_KR\finalPush\MixedReality250-master\App\KarensLighthouse\Data\nativePlugins.txt">
       <PackagePath>Data\nativePlugins.txt</PackagePath>
-      <Modified>2019-04-27T16:09:21.695</Modified>
+      <Modified>2019-04-28T23:40:55.117</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\5100_FinalProject_KR\finalPush\MixedReality250-master\App\KarensLighthouse\Data\sharedassets0.resource">
       <PackagePath>Data\sharedassets0.resource</PackagePath>
-      <Modified>2019-04-27T16:08:38.780</Modified>
+      <Modified>2019-04-28T23:40:03.738</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.17134.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -604,231 +604,231 @@
     <AppxPackagedFile Include="D:\Projects\5100_FinalProject_KR\finalPush\MixedReality250-master\App\KarensLighthouse\bin\x86\Release\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2019-04-27T16:32:43.951</Modified>
+      <Modified>2019-04-28T23:43:24.963</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\5100_FinalProject_KR\finalPush\MixedReality250-master\App\KarensLighthouse\UnityEngine.TextRenderingModule.dll">
       <PackagePath>UnityEngine.TextRenderingModule.dll</PackagePath>
-      <Modified>2019-04-27T16:32:54.169</Modified>
+      <Modified>2019-04-28T23:43:37.124</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\5100_FinalProject_KR\finalPush\MixedReality250-master\App\KarensLighthouse\UnityEngine.TerrainPhysicsModule.dll">
       <PackagePath>UnityEngine.TerrainPhysicsModule.dll</PackagePath>
-      <Modified>2019-04-27T16:32:54.207</Modified>
+      <Modified>2019-04-28T23:43:37.149</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\5100_FinalProject_KR\finalPush\MixedReality250-master\App\KarensLighthouse\UnityEngine.TerrainModule.dll">
       <PackagePath>UnityEngine.TerrainModule.dll</PackagePath>
-      <Modified>2019-04-27T16:32:54.234</Modified>
+      <Modified>2019-04-28T23:43:37.172</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\5100_FinalProject_KR\finalPush\MixedReality250-master\App\KarensLighthouse\UnityEngine.TilemapModule.dll">
       <PackagePath>UnityEngine.TilemapModule.dll</PackagePath>
-      <Modified>2019-04-27T16:32:54.263</Modified>
+      <Modified>2019-04-28T23:43:37.193</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\5100_FinalProject_KR\finalPush\MixedReality250-master\App\KarensLighthouse\UnityEngine.UIElementsModule.dll">
       <PackagePath>UnityEngine.UIElementsModule.dll</PackagePath>
-      <Modified>2019-04-27T16:32:54.318</Modified>
+      <Modified>2019-04-28T23:43:37.243</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\5100_FinalProject_KR\finalPush\MixedReality250-master\App\KarensLighthouse\UnityEngine.SharedInternalsModule.dll">
       <PackagePath>UnityEngine.SharedInternalsModule.dll</PackagePath>
-      <Modified>2019-04-27T16:32:54.336</Modified>
+      <Modified>2019-04-28T23:43:37.263</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\5100_FinalProject_KR\finalPush\MixedReality250-master\App\KarensLighthouse\UnityEngine.ScreenCaptureModule.dll">
       <PackagePath>UnityEngine.ScreenCaptureModule.dll</PackagePath>
-      <Modified>2019-04-27T16:32:54.362</Modified>
+      <Modified>2019-04-28T23:43:37.286</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\5100_FinalProject_KR\finalPush\MixedReality250-master\App\KarensLighthouse\UnityEngine.SpriteMaskModule.dll">
       <PackagePath>UnityEngine.SpriteMaskModule.dll</PackagePath>
-      <Modified>2019-04-27T16:32:54.401</Modified>
+      <Modified>2019-04-28T23:43:37.312</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\5100_FinalProject_KR\finalPush\MixedReality250-master\App\KarensLighthouse\UnityEngine.StyleSheetsModule.dll">
       <PackagePath>UnityEngine.StyleSheetsModule.dll</PackagePath>
-      <Modified>2019-04-27T16:32:54.419</Modified>
+      <Modified>2019-04-28T23:43:37.332</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\5100_FinalProject_KR\finalPush\MixedReality250-master\App\KarensLighthouse\UnityEngine.SpriteShapeModule.dll">
       <PackagePath>UnityEngine.SpriteShapeModule.dll</PackagePath>
-      <Modified>2019-04-27T16:32:54.441</Modified>
+      <Modified>2019-04-28T23:43:37.347</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\5100_FinalProject_KR\finalPush\MixedReality250-master\App\KarensLighthouse\UnityEngine.VideoModule.dll">
       <PackagePath>UnityEngine.VideoModule.dll</PackagePath>
-      <Modified>2019-04-27T16:32:54.461</Modified>
+      <Modified>2019-04-28T23:43:37.375</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\5100_FinalProject_KR\finalPush\MixedReality250-master\App\KarensLighthouse\UnityEngine.VehiclesModule.dll">
       <PackagePath>UnityEngine.VehiclesModule.dll</PackagePath>
-      <Modified>2019-04-27T16:32:54.477</Modified>
+      <Modified>2019-04-28T23:43:37.392</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\5100_FinalProject_KR\finalPush\MixedReality250-master\App\KarensLighthouse\UnityEngine.UnityWebRequestWWWModule.dll">
       <PackagePath>UnityEngine.UnityWebRequestWWWModule.dll</PackagePath>
-      <Modified>2019-04-27T16:32:54.510</Modified>
+      <Modified>2019-04-28T23:43:37.414</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\5100_FinalProject_KR\finalPush\MixedReality250-master\App\KarensLighthouse\UnityEngine.VRModule.dll">
       <PackagePath>UnityEngine.VRModule.dll</PackagePath>
-      <Modified>2019-04-27T16:32:54.538</Modified>
+      <Modified>2019-04-28T23:43:37.448</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\5100_FinalProject_KR\finalPush\MixedReality250-master\App\KarensLighthouse\UnityEngine.WindModule.dll">
       <PackagePath>UnityEngine.WindModule.dll</PackagePath>
-      <Modified>2019-04-27T16:32:54.552</Modified>
+      <Modified>2019-04-28T23:43:37.475</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\5100_FinalProject_KR\finalPush\MixedReality250-master\App\KarensLighthouse\UnityEngine.WebModule.dll">
       <PackagePath>UnityEngine.WebModule.dll</PackagePath>
-      <Modified>2019-04-27T16:32:54.573</Modified>
+      <Modified>2019-04-28T23:43:37.503</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\5100_FinalProject_KR\finalPush\MixedReality250-master\App\KarensLighthouse\UnityEngine.UnityAnalyticsModule.dll">
       <PackagePath>UnityEngine.UnityAnalyticsModule.dll</PackagePath>
-      <Modified>2019-04-27T16:32:54.592</Modified>
+      <Modified>2019-04-28T23:43:37.523</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\5100_FinalProject_KR\finalPush\MixedReality250-master\App\KarensLighthouse\UnityEngine.UNETModule.dll">
       <PackagePath>UnityEngine.UNETModule.dll</PackagePath>
-      <Modified>2019-04-27T16:32:54.616</Modified>
+      <Modified>2019-04-28T23:43:37.555</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\5100_FinalProject_KR\finalPush\MixedReality250-master\App\KarensLighthouse\UnityEngine.UIModule.dll">
       <PackagePath>UnityEngine.UIModule.dll</PackagePath>
-      <Modified>2019-04-27T16:32:54.635</Modified>
+      <Modified>2019-04-28T23:43:37.588</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\5100_FinalProject_KR\finalPush\MixedReality250-master\App\KarensLighthouse\UnityEngine.UnityConnectModule.dll">
       <PackagePath>UnityEngine.UnityConnectModule.dll</PackagePath>
-      <Modified>2019-04-27T16:32:54.650</Modified>
+      <Modified>2019-04-28T23:43:37.613</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\5100_FinalProject_KR\finalPush\MixedReality250-master\App\KarensLighthouse\UnityEngine.UnityWebRequestTextureModule.dll">
       <PackagePath>UnityEngine.UnityWebRequestTextureModule.dll</PackagePath>
-      <Modified>2019-04-27T16:32:54.666</Modified>
+      <Modified>2019-04-28T23:43:37.629</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\5100_FinalProject_KR\finalPush\MixedReality250-master\App\KarensLighthouse\UnityEngine.UnityWebRequestModule.dll">
       <PackagePath>UnityEngine.UnityWebRequestModule.dll</PackagePath>
-      <Modified>2019-04-27T16:32:54.691</Modified>
+      <Modified>2019-04-28T23:43:37.661</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\5100_FinalProject_KR\finalPush\MixedReality250-master\App\KarensLighthouse\UnityEngine.UnityWebRequestAudioModule.dll">
       <PackagePath>UnityEngine.UnityWebRequestAudioModule.dll</PackagePath>
-      <Modified>2019-04-27T16:32:54.705</Modified>
+      <Modified>2019-04-28T23:43:37.679</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\5100_FinalProject_KR\finalPush\MixedReality250-master\App\KarensLighthouse\UnityEngine.AudioModule.dll">
       <PackagePath>UnityEngine.AudioModule.dll</PackagePath>
-      <Modified>2019-04-27T16:32:54.730</Modified>
+      <Modified>2019-04-28T23:43:37.706</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\5100_FinalProject_KR\finalPush\MixedReality250-master\App\KarensLighthouse\UnityEngine.AssetBundleModule.dll">
       <PackagePath>UnityEngine.AssetBundleModule.dll</PackagePath>
-      <Modified>2019-04-27T16:32:54.742</Modified>
+      <Modified>2019-04-28T23:43:37.733</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\5100_FinalProject_KR\finalPush\MixedReality250-master\App\KarensLighthouse\UnityEngine.ARModule.dll">
       <PackagePath>UnityEngine.ARModule.dll</PackagePath>
-      <Modified>2019-04-27T16:32:54.764</Modified>
+      <Modified>2019-04-28T23:43:37.767</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\5100_FinalProject_KR\finalPush\MixedReality250-master\App\KarensLighthouse\UnityEngine.ClothModule.dll">
       <PackagePath>UnityEngine.ClothModule.dll</PackagePath>
-      <Modified>2019-04-27T16:32:54.782</Modified>
+      <Modified>2019-04-28T23:43:37.785</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\5100_FinalProject_KR\finalPush\MixedReality250-master\App\KarensLighthouse\UnityEngine.DirectorModule.dll">
       <PackagePath>UnityEngine.DirectorModule.dll</PackagePath>
-      <Modified>2019-04-27T16:32:54.814</Modified>
+      <Modified>2019-04-28T23:43:37.818</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\5100_FinalProject_KR\finalPush\MixedReality250-master\App\KarensLighthouse\UnityEngine.CrashReportingModule.dll">
       <PackagePath>UnityEngine.CrashReportingModule.dll</PackagePath>
-      <Modified>2019-04-27T16:32:54.834</Modified>
+      <Modified>2019-04-28T23:43:37.842</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\5100_FinalProject_KR\finalPush\MixedReality250-master\App\KarensLighthouse\UnityEngine.CoreModule.dll">
       <PackagePath>UnityEngine.CoreModule.dll</PackagePath>
-      <Modified>2019-04-27T16:32:55.117</Modified>
+      <Modified>2019-04-28T23:43:38.180</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\5100_FinalProject_KR\finalPush\MixedReality250-master\App\KarensLighthouse\UnityEngine.AnimationModule.dll">
       <PackagePath>UnityEngine.AnimationModule.dll</PackagePath>
-      <Modified>2019-04-27T16:32:55.141</Modified>
+      <Modified>2019-04-28T23:43:38.229</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\5100_FinalProject_KR\finalPush\MixedReality250-master\App\KarensLighthouse\UnityEngine.AIModule.dll">
       <PackagePath>UnityEngine.AIModule.dll</PackagePath>
-      <Modified>2019-04-27T16:32:55.160</Modified>
+      <Modified>2019-04-28T23:43:38.264</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\5100_FinalProject_KR\finalPush\MixedReality250-master\App\KarensLighthouse\UnityEngine.AccessibilityModule.dll">
       <PackagePath>UnityEngine.AccessibilityModule.dll</PackagePath>
-      <Modified>2019-04-27T16:32:55.188</Modified>
+      <Modified>2019-04-28T23:43:38.291</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\5100_FinalProject_KR\finalPush\MixedReality250-master\App\KarensLighthouse\UnityEngine.ParticlesLegacyModule.dll">
       <PackagePath>UnityEngine.ParticlesLegacyModule.dll</PackagePath>
-      <Modified>2019-04-27T16:32:55.205</Modified>
+      <Modified>2019-04-28T23:43:38.318</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\5100_FinalProject_KR\finalPush\MixedReality250-master\App\KarensLighthouse\UnityEngine.JSONSerializeModule.dll">
       <PackagePath>UnityEngine.JSONSerializeModule.dll</PackagePath>
-      <Modified>2019-04-27T16:32:55.219</Modified>
+      <Modified>2019-04-28T23:43:38.339</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\5100_FinalProject_KR\finalPush\MixedReality250-master\App\KarensLighthouse\UnityEngine.ParticleSystemModule.dll">
       <PackagePath>UnityEngine.ParticleSystemModule.dll</PackagePath>
-      <Modified>2019-04-27T16:32:55.247</Modified>
+      <Modified>2019-04-28T23:43:38.379</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\5100_FinalProject_KR\finalPush\MixedReality250-master\App\KarensLighthouse\UnityEngine.PhysicsModule.dll">
       <PackagePath>UnityEngine.PhysicsModule.dll</PackagePath>
-      <Modified>2019-04-27T16:32:55.278</Modified>
+      <Modified>2019-04-28T23:43:38.414</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\5100_FinalProject_KR\finalPush\MixedReality250-master\App\KarensLighthouse\UnityEngine.Physics2DModule.dll">
       <PackagePath>UnityEngine.Physics2DModule.dll</PackagePath>
-      <Modified>2019-04-27T16:32:55.304</Modified>
+      <Modified>2019-04-28T23:43:38.450</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\5100_FinalProject_KR\finalPush\MixedReality250-master\App\KarensLighthouse\UnityEngine.PerformanceReportingModule.dll">
       <PackagePath>UnityEngine.PerformanceReportingModule.dll</PackagePath>
-      <Modified>2019-04-27T16:32:55.318</Modified>
+      <Modified>2019-04-28T23:43:38.479</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\5100_FinalProject_KR\finalPush\MixedReality250-master\App\KarensLighthouse\UnityEngine.GridModule.dll">
       <PackagePath>UnityEngine.GridModule.dll</PackagePath>
-      <Modified>2019-04-27T16:32:55.333</Modified>
+      <Modified>2019-04-28T23:43:38.497</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\5100_FinalProject_KR\finalPush\MixedReality250-master\App\KarensLighthouse\UnityEngine.GameCenterModule.dll">
       <PackagePath>UnityEngine.GameCenterModule.dll</PackagePath>
-      <Modified>2019-04-27T16:32:55.352</Modified>
+      <Modified>2019-04-28T23:43:38.529</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\5100_FinalProject_KR\finalPush\MixedReality250-master\App\KarensLighthouse\UnityEngine.dll">
       <PackagePath>UnityEngine.dll</PackagePath>
-      <Modified>2019-04-27T16:09:02.908</Modified>
+      <Modified>2019-04-28T23:40:31.472</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\5100_FinalProject_KR\finalPush\MixedReality250-master\App\KarensLighthouse\UnityEngine.InputModule.dll">
       <PackagePath>UnityEngine.InputModule.dll</PackagePath>
-      <Modified>2019-04-27T16:32:55.368</Modified>
+      <Modified>2019-04-28T23:43:38.559</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\5100_FinalProject_KR\finalPush\MixedReality250-master\App\KarensLighthouse\UnityEngine.IMGUIModule.dll">
       <PackagePath>UnityEngine.IMGUIModule.dll</PackagePath>
-      <Modified>2019-04-27T16:32:55.400</Modified>
+      <Modified>2019-04-28T23:43:38.603</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\5100_FinalProject_KR\finalPush\MixedReality250-master\App\KarensLighthouse\UnityEngine.ImageConversionModule.dll">
       <PackagePath>UnityEngine.ImageConversionModule.dll</PackagePath>
-      <Modified>2019-04-27T16:32:55.413</Modified>
+      <Modified>2019-04-28T23:43:38.627</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\5100_FinalProject_KR\finalPush\MixedReality250-master\App\KarensLighthouse\Newtonsoft.Json.dll">
       <PackagePath>Newtonsoft.Json.dll</PackagePath>
-      <Modified>2019-04-27T16:32:55.470</Modified>
+      <Modified>2019-04-28T23:43:38.695</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\5100_FinalProject_KR\finalPush\MixedReality250-master\App\KarensLighthouse\UnityEngine.Timeline.dll">
       <PackagePath>UnityEngine.Timeline.dll</PackagePath>
-      <Modified>2019-04-27T16:32:55.519</Modified>
+      <Modified>2019-04-28T23:43:38.743</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\5100_FinalProject_KR\finalPush\MixedReality250-master\App\KarensLighthouse\nunit.framework.dll">
       <PackagePath>nunit.framework.dll</PackagePath>
-      <Modified>2019-04-27T16:32:55.568</Modified>
+      <Modified>2019-04-28T23:43:38.801</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\5100_FinalProject_KR\finalPush\MixedReality250-master\App\KarensLighthouse\UnityEngine.UI.dll">
       <PackagePath>UnityEngine.UI.dll</PackagePath>
-      <Modified>2019-04-27T16:32:55.657</Modified>
+      <Modified>2019-04-28T23:43:38.899</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\5100_FinalProject_KR\finalPush\MixedReality250-master\App\KarensLighthouse\UnityEngine.SpatialTracking.dll">
       <PackagePath>UnityEngine.SpatialTracking.dll</PackagePath>
-      <Modified>2019-04-27T16:32:55.673</Modified>
+      <Modified>2019-04-28T23:43:38.923</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\5100_FinalProject_KR\finalPush\MixedReality250-master\App\KarensLighthouse\UnityEngine.HoloLens.dll">
       <PackagePath>UnityEngine.HoloLens.dll</PackagePath>
-      <Modified>2019-04-27T16:32:55.699</Modified>
+      <Modified>2019-04-28T23:43:38.959</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\5100_FinalProject_KR\finalPush\MixedReality250-master\App\KarensLighthouse\UnityEngine.StandardEvents.dll">
       <PackagePath>UnityEngine.StandardEvents.dll</PackagePath>
-      <Modified>2019-04-27T16:32:55.725</Modified>
+      <Modified>2019-04-28T23:43:38.994</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\5100_FinalProject_KR\finalPush\MixedReality250-master\App\KarensLighthouse\UnityEngine.Networking.dll">
       <PackagePath>UnityEngine.Networking.dll</PackagePath>
-      <Modified>2019-04-27T16:32:55.799</Modified>
+      <Modified>2019-04-28T23:43:39.095</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\5100_FinalProject_KR\finalPush\MixedReality250-master\App\KarensLighthouse\Assembly-CSharp.dll">
       <PackagePath>Assembly-CSharp.dll</PackagePath>
-      <Modified>2019-04-27T16:32:54.095</Modified>
+      <Modified>2019-04-28T23:43:37.049</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\5100_FinalProject_KR\finalPush\MixedReality250-master\App\KarensLighthouse\Assembly-CSharp-firstpass.dll">
       <PackagePath>Assembly-CSharp-firstpass.dll</PackagePath>
-      <Modified>2019-04-27T16:32:54.137</Modified>
+      <Modified>2019-04-28T23:43:37.092</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\5100_FinalProject_KR\finalPush\MixedReality250-master\App\KarensLighthouse\bin\x86\Release\Core\KarensLighthouse.exe">
       <PackagePath>KarensLighthouse.exe</PackagePath>
-      <Modified>2019-04-27T16:32:58.500</Modified>
+      <Modified>2019-04-28T23:43:41.979</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

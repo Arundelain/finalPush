@@ -38,6 +38,7 @@
   <Capabilities>
     <Capability Name="internetClientServer" />
     <Capability Name="privateNetworkClientServer" />
+    <uap:Capability Name="objects3D" />
     <uap2:Capability Name="spatialPerception" />
   </Capabilities>
   <Extensions>
